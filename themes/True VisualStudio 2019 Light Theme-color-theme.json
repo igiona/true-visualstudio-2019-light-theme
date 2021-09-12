@@ -606,7 +606,7 @@
 		"name": "Classes",
 		"scope": "entity.name.type.namespace",
 		"settings": {
-		  "foreground": "#2b91af"
+		  "foreground": "#000000"
 		}
 	  },
 	  {
