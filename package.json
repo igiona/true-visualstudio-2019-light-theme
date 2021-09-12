@@ -17,5 +17,7 @@
                 "path": "./themes/True VisualStudio 2019 Light Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "Icon.png",
+    "publisher": "igiona"
 }
