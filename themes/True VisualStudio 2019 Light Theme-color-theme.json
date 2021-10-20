@@ -989,7 +989,7 @@
 		"name": "illegal",
 		"scope": "invalid.illegal",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff0000"
 		}
 	  },
 	  {
@@ -1003,21 +1003,21 @@
 		"name": "Broken",
 		"scope": "invalid.broken",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff0000"
 		}
 	  },
 	  {
 		"name": "Deprecated",
 		"scope": "invalid.deprecated",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff0000"
 		}
 	  },
 	  {
 		"name": "Unimplemented",
 		"scope": "invalid.unimplemented",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ff0000"
 		}
 	  },
 	  {
@@ -1973,7 +1973,7 @@
 	  "terminal.foreground": "#333333",
 	  "terminal.selectionBackground": "#00000040",
 	  "terminalCursor.background": "#0087FF",
-	  "terminalCursor.foreground": "#ffffff",
+	  "terminalCursor.foreground": "#80808059",
 	  "terminal.border": "#80808059",
 	  "terminal.ansiBlack": "#000000",
 	  "terminal.ansiBlue": "#0451a5",
